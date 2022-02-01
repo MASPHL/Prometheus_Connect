@@ -1,2 +1,2 @@
-# Prometheus_Connect
-Details how to remote connect to the linux machine from your state computer (must be on state network) 
+# Random_tidbits
+Setups, Workarounds, Tricks, Shenanigans to make coding life better :-) 
